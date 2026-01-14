@@ -2,6 +2,9 @@
 
 A RAG-powered knowledge base built from 269 Lenny's Podcast transcripts, featuring top operators like Brian Chesky, Marty Cagan, Elena Verna, Shreyas Doshi, and 265+ more.
 
+**Quick video on how to use the MCP**
+https://www.tella.tv/video/vladimirs-video-aad7
+
 ## Architecture
 
 ```
